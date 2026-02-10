@@ -6,7 +6,7 @@ Here, you'll find a mix of projects showcasing my development expertise, as well
 
 🔧 Tech Stack:
 
-Languages: Python,Angular,React,ASP.NET MVC,ASP.NET, JavaScript
+Languages: Angular,React,ASP.NET MVC,ASP.NET, JavaScript
 Tools & Technologies: Git, Docker, Kubernetes, Jenkins, Terraform
 Cloud Platforms: Azure (Learning in progress)
 🌱 Currently Learning: DevOps best practices, cloud administration, and Infrastructure as Code.
